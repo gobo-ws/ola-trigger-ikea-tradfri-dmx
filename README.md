@@ -20,7 +20,7 @@ make
 sudo make install
 ```
 * Download the [tradfri.conf](tradfri.conf) file and edit the configuration section. 
-* Download the shell scripts and place them in the same directory. Make them executable with `chmod +x`
+* Download the [tradfri.sh](tradfri.sh) shell script, place it in the same directory and make it executable with `chmod +x`
 
 [OLA trigger documentation](https://www.openlighting.org/ola/advanced-topics/ola-dmx-trigger/)
 
