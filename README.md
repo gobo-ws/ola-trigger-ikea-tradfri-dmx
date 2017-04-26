@@ -4,7 +4,7 @@
 
 * [OLA](https://www.openlighting.org/ola/)
 * [libcoap with dtls support](https://github.com/obgm/libcoap)
-* [IKEA Trådfri gateway](https://www.ikea.com) (tested with firmware version 1.1.0015)
+* [IKEA Trådfri gateway](http://www.ikea.com) (tested with firmware version 1.1.0015)
 
 **Installation**
   
