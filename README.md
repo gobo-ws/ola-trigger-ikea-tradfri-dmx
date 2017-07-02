@@ -30,3 +30,6 @@ sudo make install
 The config file is provided on the command line:
 
 `ola_trigger tradfri.conf`
+
+
+[![IKEA Trådfri bulb controlled with DMX - video clip](https://i.vimeocdn.com/video/642888547_640.jpg)](https://vimeo.com/223957093)
