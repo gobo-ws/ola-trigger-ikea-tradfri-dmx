@@ -29,7 +29,7 @@ sudo make install
 * Before running ola_trigger, make sure that olad is running and the universe has been configured with a DMX512 source.  
 The config file is provided on the command line:
 
-`ola_trigger tradfri.conf`
+`ola_trigger tradfri.conf`  
   
 
 [![IKEA Trådfri bulb controlled with DMX - video clip](https://i.vimeocdn.com/video/642888547_640.jpg)](https://vimeo.com/223957093)
