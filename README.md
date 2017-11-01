@@ -1,5 +1,5 @@
-**Does not work with Trådfri gateway firmware version 1.2.42
-I will work on an update. /Johan**
+**Does not work with Trådfri gateway firmware version 1.2.42.**
+**I will work on an update. /Johan**
 
 
 
