@@ -1,3 +1,6 @@
+**Does not work with Trådfri gateway firmware version 1.2.42
+I will work on an update. /Johan**
+
 **OLA Trigger config to control IKEA Trådfri lights with DMX (ArtNet, sACN or via DMX input)**
 
 **Requirements**
