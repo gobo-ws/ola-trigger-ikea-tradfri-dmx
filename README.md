@@ -3,12 +3,12 @@
 **Requirements**
 
 * [OLA](https://www.openlighting.org/ola/)
-* [libcoap with dtls support](https://github.com/obgm/libcoap)
-* [IKEA Trådfri gateway](http://www.ikea.com)
+* [libcoap with DTLS support](https://github.com/obgm/libcoap)
+* [IKEA Trådfri gateway](http://www.ikea.com/gb/en/products/lighting/smart-lighting/tr%C3%A5dfri-gateway-white-art-20337807/)
 
 **Installation**
   
-* Download and install libcoap with dtls support:
+* Download and install libcoap with DTLS support:
 ```sudo apt-get install libtool
 git clone --recursive https://github.com/obgm/libcoap.git
 cd libcoap
