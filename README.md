@@ -20,11 +20,12 @@ make
 sudo make install
 ```
 
-* Use the following string to connect to the Trådfri gateway and create a new DTLS identity (you will get a pre shared key from the gateway)
-SECURITY_KEY = Trådfri security key. Printed on the back of gateway
-IDENTITY = Your API user
-HOSTNAME = Trådfri gateway hostname or IP address
-```coap-client -m post -u "Client_identity" -k "SECURITY_KEY" -e '{"9090":"IDENTITY"}' "coaps://HOSTNAME:5684/15011/9063"```
+* Use the following string to connect to the Trådfri gateway and create a new DTLS identity  (you will get a pre shared key from the gateway)  
+SECURITY_KEY = Trådfri security key. Printed on the back of gateway  
+IDENTITY = Your API user  
+HOSTNAME = Trådfri gateway hostname or IP address  
+  
+```coap-client -m post -u "Client_identity" -k "SECURITY_KEY" -e '{"9090":"IDENTITY"}' "coaps://HOSTNAME:5684/15011/9063"```  
 * Download the [tradfri.conf](tradfri.conf) file and edit the configuration section. 
 * Download the [tradfri.sh](tradfri.sh) shell script, place it in the same directory and make it executable with `chmod +x`
 
