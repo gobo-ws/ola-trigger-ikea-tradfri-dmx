@@ -41,7 +41,7 @@ The config file is provided on the command line:
 
 [![IKEA Trådfri bulb controlled with DMX - video clip](https://i.vimeocdn.com/video/642888547_640.jpg)](https://vimeo.com/223957093)
 
-**2017-03-06**
+**2018-03-06**
 
 I have created a new config file [tradfri_beta.conf](tradfri_beta.conf) that should support all IKEA Trådfri devices (single color, color temperature & RGB lamps)
 Also transition time can be changed using a third DMX channel (0-255 ms fade time) 
