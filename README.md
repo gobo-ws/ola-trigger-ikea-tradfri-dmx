@@ -40,3 +40,13 @@ The config file is provided on the command line:
   <br>
 
 [![IKEA Trådfri bulb controlled with DMX - video clip](https://i.vimeocdn.com/video/642888547_640.jpg)](https://vimeo.com/223957093)
+
+**2017-03-06**
+
+I have created a new config file [tradfri_beta.conf](tradfri_beta.conf) that should support all IKEA Trådfri devices (single color, color temperature & RGB lamps)
+Also transition time can be changed using a third DMX channel (0-255 ms fade time) 
+
+It is still in beta stage so maybe we should change the fade time from millisecond till seconds instead.
+RGB color conversion would be nice to have.
+
+Creating a plugin for OLA instead of using a trigger file would be better and would give more opportunities, but it requires more work and skills.
