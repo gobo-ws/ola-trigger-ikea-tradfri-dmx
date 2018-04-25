@@ -1,4 +1,4 @@
-**OLA Trigger config to control IKEA Trådfri lights with DMX (Art-Net, sACN or via DMX input)**
+**OLA trigger config to control IKEA Trådfri lights with DMX (Art-Net, sACN or via DMX input)**
 
 **Requirements**
 
