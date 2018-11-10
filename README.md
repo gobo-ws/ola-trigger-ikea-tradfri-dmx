@@ -1,4 +1,4 @@
-**OLA trigger config to control IKEA Trådfri lights with DMX (Art-Net, sACN or via DMX input)**
+**OLA trigger config to control IKEA Trådfri lights & control outlets with DMX (Art-Net, sACN or via DMX input)**
 
 **Requirements**
 
@@ -40,6 +40,10 @@ The config file is provided on the command line:
   <br>
 
 [![IKEA Trådfri bulb controlled with DMX - video clip](https://i.vimeocdn.com/video/642888547_640.jpg)](https://vimeo.com/223957093)
+
+**2018-11-10**
+
+Created a config for the new Trådfri control outlets.
 
 **2018-03-06**
 
